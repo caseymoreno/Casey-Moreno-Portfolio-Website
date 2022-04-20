@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/css/main.f75246d3.css",
+    "main.js": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/js/main.dfec3438.js",
+    "static/media/me.png": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/me.821ecddcb9953b46bf75.png",
+    "static/media/me-about.jpg": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/me-about.fb4452e7f286d3636ef9.jpg",
+    "static/media/Casey Moreno Resume 2021 dec.pdf": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/Casey Moreno Resume 2021 dec.6d5eaabe8ff98c4fca0e.pdf",
+    "static/media/portfolio2.jpg": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/portfolio2.ae187bc4e43ae6dbc263.jpg",
+    "static/media/portfolio1.jpg": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/portfolio1.f5e72352e5aa840702b8.jpg",
+    "static/media/portfolio3.jpg": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/portfolio3.cbab42559fe73e73906f.jpg",
+    "static/media/Wordly Guess.png": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/media/Wordly Guess.96d2e50f96681607badc.png",
+    "index.html": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/index.html",
+    "main.f75246d3.css.map": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/css/main.f75246d3.css.map",
+    "main.dfec3438.js.map": "/caseymoreno/Casey-Moreno-Portfolio-Website.git/static/js/main.dfec3438.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f75246d3.css",
+    "static/js/main.dfec3438.js"
+  ]
+}
