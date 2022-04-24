@@ -18,7 +18,7 @@ const Portfolio = () => {
           </div>
           <h3>This is a portfolio item title</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn'>Github</a>
+            <a href="https://github.com/caseymoreno/Chordle" className='btn'>Github</a>
             <a href="https://wordlyguess.netlify.app/" className='btn btn-primary'>Live Site</a>
           </div>
         </article>
