@@ -16,9 +16,9 @@ const Portfolio = () => {
           <div className="portfolio__item-image">
             <img src={WORDLY} alt="Wordly Guess Web App" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>Wordly Guess</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/caseymoreno/Chordle" className='btn'>Github</a>
+            <a href="https://github.com/caseymoreno/Wordly-Guesss.git" className='btn'>Github</a>
             <a href="https://wordlyguess.netlify.app/" className='btn btn-primary'>Live Site</a>
           </div>
         </article>
