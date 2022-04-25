@@ -1,8 +1,7 @@
 import React from 'react'
 import './about.css'
-import ME from '../../assets/me-about.jpg'
+import ME from '../../assets/comp sci.jpg'
 import {FaAward} from "react-icons/fa";
-import {FiUsers} from "react-icons/fi";
 import {VscFolderLibrary} from "react-icons/vsc";
 
 const About = () => {
@@ -27,12 +26,6 @@ const About = () => {
             </article>
 
             <article className="about__card">
-              <FiUsers className='about__icon'/>
-              <h5>Clients</h5>
-              <small>200+ Worldwide</small>
-            </article>
-
-            <article className="about__card">
               <VscFolderLibrary className='about__icon'/>
               <h5>Projects</h5>
               <small>3+ Years Working</small>
@@ -40,7 +33,7 @@ const About = () => {
           </div>
 
           <p>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Officiis soluta sequi repellendus at quod atque aperiam placeat, praesentium vero ex consectetur maxime ullam, recusandae repudiandae enim explicabo esse laboriosam voluptatibus.
+            I am a full-stack developer with a passion for learning new technology, with experience building websites, applications, and databases.  
           </p>
 
           <a href="#contact" className='btn btn-primary'>Let's Talk</a>

@@ -1,9 +1,8 @@
 import React from 'react'
 import './portfolio.css'
 import WORDLY from '../../assets/Wordly Guess.png'
-import IMG2 from '../../assets/portfolio1.jpg'
-import IMG3 from '../../assets/portfolio2.jpg'
-import IMG4 from '../../assets/portfolio3.jpg'
+import JC from '../../assets/J&C-Pools.png'
+
 
 const Portfolio = () => {
   return (
@@ -24,32 +23,12 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={IMG2} alt="Wordly Guess Web App" />
+            <img src={JC} alt="Wordly Guess Web App" />
           </div>
-          <h3>This is a portfolio item title</h3>
+          <h3>J &amp; C Pools</h3>
           <div className="portfolio__item-cta">
-            <a href="https://github.com/caseymoreno/Wordly-Guesss.git" className='btn'>Github</a>
-            <a href="https://wordlyguess.netlify.app/" className='btn btn-primary'>Live Site</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG3} alt="Wordly Guess Web App" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn'>Github</a>
-            <a href="https://wordlyguess.netlify.app/" className='btn btn-primary'>Live Site</a>
-          </div>
-        </article>
-        <article className='portfolio__item'>
-          <div className="portfolio__item-image">
-            <img src={IMG4} alt="Wordly Guess Web App" />
-          </div>
-          <h3>This is a portfolio item title</h3>
-          <div className="portfolio__item-cta">
-            <a href="https://github.com" className='btn'>Github</a>
-            <a href="https://wordlyguess.netlify.app/" className='btn btn-primary'>Live Site</a>
+            <a href="https://github.com/caseymoreno/J-C-Pools" className='btn'>Github</a>
+            <a href="https://www.jandcfiberglasspool.com" className='btn btn-primary'>Live Site</a>
           </div>
         </article>
       </div>

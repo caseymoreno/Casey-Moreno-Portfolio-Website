@@ -1,5 +1,5 @@
 import React from 'react'
-import Resume from '../../assets/Casey Moreno Resume 2021 dec.pdf'
+import Resume from '../../assets/Casey Moreno Resume 2022.pdf'
 
 const CTA = () => {
   return (
