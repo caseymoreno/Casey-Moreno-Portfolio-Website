@@ -34,7 +34,7 @@ const Portfolio = () => {
         </article>
         <article className='portfolio__item'>
           <div className="portfolio__item-image">
-            <img src={JC} alt="Wordly Guess Web App" />
+            <img src={FLPRICE} alt="Wordly Guess Web App" />
           </div>
           <h3>Florida Home Price Prediction</h3>
           <div className="portfolio__item-cta">
